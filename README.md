@@ -22,8 +22,8 @@ I'm building it end to end: Next.js apps, a Python / FastAPI real-time backend, 
 
 #### Before Align
 
-- **Voice AI at [LiaPlus AI](https://liaplus.com):** real-time calling platform on Pipecat + LiveKit with sub-500 ms WebRTC streaming, and a visual workflow editor that cut call-flow setup time by 40%.
-- **[Profil3r](https://github.com/amitrajputfff/Profil3r)** ⭐ 133: OSINT tool that finds a person's profiles across social networks and flags emails seen in data leaks.
+- **Voice AI Engineer at Justdial:** real-time voice agents on Pipecat, LiveKit and WebRTC: speech-to-text, an LLM and text-to-speech in one low-latency loop.
+- **SDE at [LiaPlus AI](https://liaplus.com):** an AI voice-assistant dashboard, and a visual workflow editor that cut call-flow setup time by 40%.
 - **[voice-agent](https://github.com/amitrajputfff/voice-agent)**, **[VoiceVerse](https://github.com/amitrajputfff/VoiceVerse)** (real-time speech translation), **[terminal-portfolio](https://github.com/amitrajputfff/terminal-portfolio)** (my portfolio, as a terminal).
 
 #### Stack
