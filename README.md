@@ -22,7 +22,7 @@ I'm building it end to end: Next.js apps, a Python / FastAPI real-time backend, 
 
 #### Before Align
 
-- **Voice AI Engineer at Justdial:** real-time voice agents on Pipecat, LiveKit and WebRTC: speech-to-text, an LLM and text-to-speech in one low-latency loop.
+- **AI voice agents at Justdial:** built them end to end (Pipecat + LiveKit voice pipeline, the backend, the console PMs used, the dialer and lead-database integration). They called 10-20k leads a day and qualified them automatically.
 - **SDE at [LiaPlus AI](https://liaplus.com):** an AI voice-assistant dashboard, and a visual workflow editor that cut call-flow setup time by 40%.
 - **[voice-agent](https://github.com/amitrajputfff/voice-agent)**, **[VoiceVerse](https://github.com/amitrajputfff/VoiceVerse)** (real-time speech translation), **[terminal-portfolio](https://github.com/amitrajputfff/terminal-portfolio)** (my portfolio, as a terminal).
 
